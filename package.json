@@ -1,0 +1,23 @@
+{
+  "name": "silver-octo",
+  "version": "1.0.0",
+  "description": "Silver octo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/someplacee/silver-octo.git"
+  },
+  "keywords": [
+    "CLI",
+    "UPDATS"
+  ],
+  "author": "Christian Brendlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/someplacee/silver-octo/issues"
+  },
+  "homepage": "https://github.com/someplacee/silver-octo#readme"
+}
